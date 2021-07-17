@@ -1,0 +1,104 @@
+[
+  {
+    "id": "ravenkeeper"
+  },
+  {
+    "id": "slayer"
+  },
+  {
+    "id": "undertaker"
+  },
+  {
+    "id": "soldier"
+  },
+  {
+    "id": "clockmaker"
+  },
+  {
+    "id": "grandmother"
+  },
+  {
+    "id": "professor"
+  },
+  {
+    "id": "notvirgin",
+    "name": "Child",
+    "edition": "tb",
+    "image": "https://raw.githubusercontent.com/bra1n/townsquare/develop/src/assets/icons/flowergirl.png?raw=true",
+    "team": "townsfolk",
+    "firstNight": 0,
+    "firstNightReminder": "",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": ["No ability"],
+    "setup": false,
+    "ability": "The 1st time you are nominated, if the nominator is a Townsfolk, they are executed immediately."
+  },
+  {
+    "id": "commoner",
+    "edition": "custom",
+    "firstNight": 43,
+    "image": "https://raw.githubusercontent.com/bra1n/townsquare/develop/src/assets/icons/farmer.png?raw=true",
+    "firstNightReminder": "Point to two players, at least one of which is also a commoner",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Commoner",
+    "team": "townsfolk",
+    "ability": "You start knowing at least 1 of 2 players is a commoner."
+  },
+
+  {
+    "id": "avalonoracle",
+    "edition": "custom",
+    "firstNight": 27,
+    "image": "https://raw.githubusercontent.com/bra1n/townsquare/develop/src/assets/icons/oracle.png?raw=true",
+    "firstNightReminder": "Point to the demon",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Oracle",
+    "team": "townsfolk",
+    "ability": "You start knowing who the demon is, when good is about to win, if evil can guess who the oracle is, evil wins."
+  },
+  {
+    "id": "merlin",
+    "edition": "custom",
+    "firstNight": 27,
+    "image": "https://raw.githubusercontent.com/bra1n/townsquare/develop/src/assets/icons/magician.png?raw=true",
+    "firstNightReminder": "Point to all the evil players",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Merlin",
+    "team": "townsfolk",
+    "ability": "You start knowing who the evil players are, when good is about to win, if evil can guess who the merlin is, evil wins."
+  },
+  {
+    "id": "kobold",
+    "edition": "custom",
+    "firstNight": 16,
+    "image": "https://raw.githubusercontent.com/bra1n/townsquare/develop/src/assets/icons/goblin.png?raw=true",
+    "firstNightReminder": "Show the Oracle or Merlin token if in play",
+    "otherNight": 0,
+    "otherNightReminder": "",
+    "reminders": [],
+    "remindersGlobal": [],
+    "setup": false,
+    "name": "Kobold",
+    "team": "minion",
+    "ability": "You start knowing if there is an Oracle or Merlin in play."
+  },
+  {
+    "id": "scarlet_woman"
+  },
+  {
+    "id": "imp"
+  }
+]
