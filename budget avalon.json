@@ -84,7 +84,7 @@
     "id": "kobold",
     "edition": "custom",
     "firstNight": 16,
-    "image": "https://raw.githubusercontent.com/bra1n/townsquare/develop/src/assets/icons/goblin.png?raw=true",
+    "image": "https://raw.githubusercontent.com/bra1n/townsquare/develop/src/assets/icons/mephit.png?raw=true",
     "firstNightReminder": "Show the Oracle or Merlin token if in play",
     "otherNight": 0,
     "otherNightReminder": "",
@@ -99,7 +99,7 @@
     "id": "scarlet_woman"
   },
   {
-    "id": "witch"
+    "id": "goblin"
   },
   {
     "id": "imp"
